@@ -8,10 +8,6 @@ This system is an advanced data analysis toolkit designed for materials science 
 
 ## 核心功能 (Core Features)
 
-该项目提供了一系列强大的分析功能，旨在将复杂的数据处理流程标准化、自动化。
-
-The project offers a suite of powerful analytical features designed to standardize and automate complex data processing workflows.
-
 #### 多模型吸附等温线分析 (Multi-Model Adsorption Isotherm Analysis)
 本工具包能够对吸附过程进行深度分析，支持包括Langmuir、Freundlich和Sips在内的多种关键等温线模型。系统采用非线性最小二乘法对实验数据进行拟合，并通过计算确定系数（R²）来量化每个模型的拟合优度。最终，它会自动筛选出与实验数据最为契合的模型，并生成高质量的可视化图表与格式化的数据报告，为深入理解吸附剂-吸附质相互作用机制提供定量依据。
 
