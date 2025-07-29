@@ -2,7 +2,7 @@
 # Advanced Analysis Toolkit for Adsorption and Electrochemical Systems
 **Author: lunazhang**
 
-本系统是一个为材料科学与电化学研究领域设计的高级数据分析工具包，专注于非线性模型的拟合与验证。它旨在精确解析吸附等温线和电化学阻抗谱（EIS）数据，为研究人员提供一个从原始数据到参数化模型的自动化、可复现的分析流程。此工具包的核心在于其对多种经典物理化学模型的支持，以及一个能够根据统计学指标自动甄别最优模型的健壮框架。
+本系统是一个为材料科学与电化学研究领域设计的数据分析模型，专注于非线性模型的拟合与验证。它旨在精确解析吸附等温线和电化学阻抗谱（EIS）数据，为研究人员提供一个从原始数据到参数化模型的自动化、可复现的分析流程。此工具包的核心在于其对多种经典物理化学模型的支持，以及一个能够根据统计学指标自动甄别最优模型的健壮框架。
 
 This system is an advanced data analysis toolkit designed for materials science and electrochemistry research, with a specific focus on the fitting and validation of non-linear models. It integrates a sophisticated suite of algorithms to precisely deconvolve data from adsorption isotherms and Electrochemical Impedance Spectroscopy (EIS), providing researchers with an automated and reproducible pipeline from raw data to a parameterized model. The core of this toolkit lies in its support for multiple classic physicochemical models and a robust framework capable of automatically identifying the optimal model based on statistical metrics.
 
