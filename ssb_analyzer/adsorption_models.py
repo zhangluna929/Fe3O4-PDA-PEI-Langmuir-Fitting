@@ -19,7 +19,6 @@ def langmuir(C, Qmax, K):
 def freundlich(C, Kf, n):
     """
     Freundlich isotherm model.
-
     Q = Kf * C^(1/n)
 
     Parameters:
@@ -35,7 +34,6 @@ def freundlich(C, Kf, n):
 def sips(C, Qmax, Ks, beta):
     """
     Sips (Langmuir-Freundlich) isotherm model.
-
     Q = (Qmax * (Ks*C)^beta) / (1 + (Ks*C)^beta)
 
     Parameters:
